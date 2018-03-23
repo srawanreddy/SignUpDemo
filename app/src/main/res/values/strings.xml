@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">signupdemo</string>
+    <string name="username_editText" translatable="false">Enter User name</string>
+    <string name="username_textView" translatable="false">User Name</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="password_textView" translatable="false">Password</string>
+    <string name="login_button" translatable="false">Login</string>
+    <string name="signup_button" translatable="false">Signup</string>
+    <string name="firstname_textView" translatable="false">First Name</string>
+    <string name="firstname_editText" translatable="false">Enter your first name</string>
+    <string name="middlename_TextView" translatable="false">Middle Name</string>
+    <string name="middlename_EditText" translatable="false">Enter your middle name</string>
+    <string name="lastname_TextView" translatable="false">Last Name</string>
+    <string name="lastname_EditText" translatable="false">Enter your last name</string>
+    <string name="emailid_TextView" translatable="false">Email Id</string>
+    <string name="emailid_EditText" translatable="false">Enter your email Id</string>
+    <string name="back_Button" translatable="false">Back</string>
+    <string name="sumbmit_Button" translatable="false">Submit</string>
+    <string name="firstname_confirmation" translatable="false">Full Name</string>
+    <string name="emailid_confirmation" translatable="false">Email ID</string>
+</resources>

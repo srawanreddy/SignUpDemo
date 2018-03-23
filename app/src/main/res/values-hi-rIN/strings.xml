@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_editText" translatable="true">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="username_textView" translatable="true">उपयोगकर्ता नाम</string>
+    <string name="password_hint" translatable="true">पारण शब्द</string>
+    <string name="password_textView" translatable="true">पारण शब्द</string>
+    <string name="login_button" translatable="true">लॉग इन करें</string>
+    <string name="signup_button" translatable="true">साइन अप करें</string>
+    <string name="firstname_textView" translatable="true">पहला नाम</string>
+    <string name="firstname_editText" translatable="true">अपना पहला नाम दर्ज करें</string>
+    <string name="middlename_TextView" translatable="true">मध्य नाम</string>
+    <string name="middlename_EditText" translatable="true">अपना मध्य नाम दर्ज करें</string>
+    <string name="lastname_TextView" translatable="true">अंतिम नाम</string>
+    <string name="lastname_EditText" translatable="true">अपना अंतिम नाम दर्ज करें</string>
+    <string name="emailid_TextView" translatable="true">ईमेल आईडी</string>
+    <string name="emailid_EditText" translatable="true">अपना ईमेल आईडी दर्ज करें</string>
+    <string name="back_Button" translatable="true">वापस</string>
+    <string name="sumbmit_Button" translatable="true">जमा करें</string>
+    <string name="firstname_confirmation" translatable="true">पूरा नाम</string>
+    <string name="emailid_confirmation" translatable="true">ईमेल आईडी</string>
+</resources>
